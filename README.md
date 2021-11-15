@@ -11,3 +11,5 @@ Feature Group 2:
 Write a DML statement that DELETEs a set of rows with a WHERE clause. The values used in the WHERE clause should be a variable.
 
 Feature Group 3:
+
+Requires MySQL Server 
