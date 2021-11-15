@@ -1,6 +1,7 @@
 # hunterhandmade
 
 Project Desciption 
+
 This project is Code Louisville Novermber 2021 capstone project. Compiling and maintaing sales and inventory data for Hunter Handmade CO. This data represents all the knnitwear sales from 2021.
 
 Feature Group 1: 
